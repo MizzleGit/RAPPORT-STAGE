@@ -1,8 +1,8 @@
 x 1. chaque chapitre intro + conclusion || intro has question
-2. conclusion generale: dans ce project nous avons montre/prouve limportance | en guise de conclusion le projet propose digital computing etc
+x 2. conclusion generale: dans ce project nous avons montre/prouve limportance | en guise de conclusion le projet propose digital computing etc
 x 3. add the pdf she gave
 x 4. add sommaire | liste de figures | page de guarde 
-intro generale = contexte + objective + methodologie
+x intro generale = contexte + objective + methodologie
 x conclusion generale
 x 5. less colors
 x 6. 2 chapitres second: systeme de poubelle intelligent pour le gestion efficace de dechets
@@ -16,4 +16,4 @@ x 13. get inspired from pfes
 
 
 
-intro generale = contexte + objective + methodologie
+
