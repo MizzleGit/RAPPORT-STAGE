@@ -1,0 +1,20 @@
+<?php
+
+$numero = 0;
+$mac = exec('getmac'); 
+$mac = strtok($MAC, ' '); 
+
+switch ($mac){
+    case '0xDE, 0xBE, 0xEB, 0xFE, 0xEF, 0xF0':
+        $numero = 1;
+        break;
+    case '0xDE, 0xBE, 0xEF, 0xAC, 0xEF, 0xF0':
+        $numero = 2;
+        break;
+    case '0xDF, 0xBE, 0xEF, 0xAC, 0xEF, 0xC0':
+        $numero = 3;
+        break;
+}
+
+
+
