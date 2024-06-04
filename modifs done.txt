@@ -1,0 +1,6 @@
+1. ajouté page de garde
+2. changé numerotation 3 -> 2.3
+3. ajouté conclusion pour partie de l'IA
+4. Selection de materiel | Hardware -> Materiel & Software -> Logiciel
+5. centré images
+6. gestion d'espaces vides
