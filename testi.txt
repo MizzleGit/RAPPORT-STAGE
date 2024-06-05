@@ -2,6 +2,7 @@
 2. images de code plus grandes
 3. police de legendes d'images -> Times New Roman
 4. 7 entrées pour bibliographie
+5. ajouté un shadow pour des images
 
 
 
