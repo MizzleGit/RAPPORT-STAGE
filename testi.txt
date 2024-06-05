@@ -1,0 +1,22 @@
+1. fixed sommaire and numbers
+2. images de code plus grandes
+3. police de legendes d'images -> Times New Roman
+4. 7 entrées pour bibliographie
+
+
+
+1. CRI site
+2. organigramme
+3. vs code
+4. git
+5. github
+6. 000webhost
+7. php
+
+
+2. 1 - 2
+
+3. 1 - 2 - 3 - 4
+
+4. 1 - 2 - 3
+
